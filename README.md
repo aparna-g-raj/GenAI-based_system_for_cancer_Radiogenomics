@@ -4,7 +4,7 @@ This project presents a multi-modal cancer analysis system that integrates medic
 
 ---
 
-## 🔍 Key Features
+## Key Features
 
 * CT Image Processing and Tumor Segmentation using AIM annotations
 * Radiomics Feature Extraction (shape, texture, intensity)
@@ -20,7 +20,7 @@ This project presents a multi-modal cancer analysis system that integrates medic
 
 ---
 
-## 📂 Dataset Used
+## Dataset Used
 
 This project utilizes the **NSCLC Radiogenomics Dataset**, a publicly available dataset that combines imaging, clinical, and genomic data for Non-Small Cell Lung Cancer (NSCLC).
 
